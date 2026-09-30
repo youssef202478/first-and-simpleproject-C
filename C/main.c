@@ -16,7 +16,7 @@ int main()
     printf("Hello %s please enter your student number: ", name);
     scanf("%d", &num);
 
-    printf("please enter your marks in math: ", name);
+    printf("please enter your marks in math: ");
     scanf("%f", &math);
 
     printf("Enter your marks in science: ");
